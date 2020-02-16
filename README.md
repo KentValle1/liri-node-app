@@ -63,9 +63,6 @@ LIRI is basically a text version of siri (in early form). While SIRI is a Speech
 
        * It should run `spotify-this` for "Total Eclipse of the Heart" as follows the text in `random.txt`.
 
-## Demo 
-
-https://drive.google.com/file/d/16BmmiswaWSoImhCl5ETis0ZGcM6EW6bA/view
 
 ### Technologies Used:
 1. DotEnv
