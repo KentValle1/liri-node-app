@@ -55,9 +55,9 @@ LIRI is basically a text version of siri (in early form). While SIRI is a Speech
        * Actors in the movie.
      ```
 
-      * If the user doesn't type a movie in, the program will output data for the movie 'Parasite'
+      * If the user doesn't type a movie in, the program will output data for the movie 'Toy Story'
 
-      * If you haven't watched "Parasite" then you should: 
+      * If you haven't watched "Toy Story" then you should: 
    
    4. `node liri.js do-what-it-says`
 
